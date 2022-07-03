@@ -21,7 +21,7 @@ function Homepage() {
                         <Button className="hero-content-button" variant="contained" color="primary">Learn More </Button>
                     </div>
                     <div className="right-div">
-                      <img src={tem} className="hero-content-img animate__animated animate__wobble" alt="ninja"/>
+                      <img src={tem} className='hero-content-img animate__animated animate__wobble' alt="ninja"/>
                     </div>
 
                 </div>

@@ -1,0 +1,39 @@
+.hero-section {
+    background-image: url("https://wallup.net/wp-content/uploads/2016/05/27/242340-apocalyptic-destruction-abandoned-Portal_2.jpg"), linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));
+    min-height: 50rem;
+    margin-top: -30px;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+.hero-content{
+    display: flex;
+    width: 85%;
+    justify-content: space-around;
+    align-content: center;
+}
+.hero-content p {
+    margin-top: 40%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 10%;
+}
+.hero-content button  {
+    font-size: 1.3em;
+    margin-left: 10%;
+}
+.hero-content-img{
+    margin-top: 70%;
+    width: 1400px;
+    height: 50%;
+    margin-left: 25%;
+    background-image: linear-gradient(rgba(0, 0, 0, 1),rgba(0,0,0,1));
+}
+.animate__animated.animate__wobble {
+    --animate-duration: 3s;
+}
+
+.animate__animated.animate__lightSpeedInLeft {
+    --animate-duration: 3s;
+}
+
+
